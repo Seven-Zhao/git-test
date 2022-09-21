@@ -17,5 +17,6 @@ public class GitTest {
         System.out.println("hello git-> hot-fix test");
         System.out.println("hello git-> push test ssh");
         System.out.println("hello git-> pull test ssh");
+        System.out.println("github update");
     }
 }
